@@ -1081,17 +1081,7 @@
         ".m3u8"
       ]
     },
-    {
-      "host": "https://api.live.bilibili.com",
-      "rule": [
-        "bilivideo.com",
-        "/index.m3u8"
-      ],
-      "filter": [
-        "data.bilibili.com/log/web",
-        "i0.hdslb.com/bfs/live/"
-      ]
-    },
+
     {
       "host": "www.agemys.cc",
       "rule": [
@@ -1227,9 +1217,6 @@
           "pptv",
           "PPTV",
           "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
         ],
         "header": {
           "User-Agent": ""
@@ -1248,7 +1235,6 @@
           "sohu",
           "youku",
           "mgtv",
-          "bilibili",
           "wasu",
           "xigua",
           "1905"
@@ -1291,9 +1277,6 @@
           "pptv",
           "PPTV",
           "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
         ]
       }
     },
