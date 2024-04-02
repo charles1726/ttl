@@ -794,8 +794,15 @@
     {
       "name": "多线ITV",
       "type": 0,
-      "url": "https://github.com/charles1726/ttl/blob/main/iptv.txt",
+      "url": "https://ghproxy.net/https://github.com/charles1726/ttl/blob/main/iptv.txt",
       "playerType": 1
+    },
+
+    {
+      "name": "嗅探",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "https://xhdwc.tk/xiutan.m3u"
     },
   
   ]
